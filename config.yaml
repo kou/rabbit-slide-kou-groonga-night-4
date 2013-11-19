@@ -1,0 +1,24 @@
+---
+id: groonga-night-4
+base_name: groonga-family-2013
+tags:
+- rabbit
+- groonga
+- mroonga
+- rroonga
+- droonga
+presentation_date: 2013-11-29
+version: 2013.11.29.0
+licenses:
+- CC BY-SA 3.0
+slideshare_id: 
+speaker_deck_id: 
+ustream_id: 
+vimeo_id: 
+author:
+  markup_language: :rd
+  name: Kouhei Sutou
+  email: kou@clear-code.com
+  rubygems_user: kou
+  slideshare_user: kou
+  speaker_deck_user: kou
