@@ -19,3 +19,110 @@
   * Groonga族の概要
   * Groonga族の最新情報
   * 周辺ツール紹介
+
+= 大事なお知らせ
+
+先頭大文字！
+
+= 先頭大文字
+
+Groonga
+
+= 他のGroonga族も
+
+Groonga\n
+Mroonga\n
+Rroonga\n
+
+= ロゴ
+
+そのまま
+
+TODO: ロゴを入れる
+
+= 理由
+
+世界進出！
+
+= 世界
+
+森: This is groonga!
+
+外: Wow! It's Groonga!
+
+森: お、おう… It's ((*G*))roonga!
+
+= Groonga族の概要
+
+  * (('del:大事なお知らせ'))
+  * ((*Groonga族の概要*))
+  * Groonga族の最新情報
+  * 周辺ツール紹介
+
+= Groonga族
+
+TODO: 図を入れる
+
+= Groonga族の最新情報
+
+  * (('del:大事なお知らせ'))
+  * (('del:Groonga族の概要'))
+  * ((*Groonga族の最新情報*))
+  * 周辺ツール紹介
+
+= 周辺ツール紹介
+
+  * (('del:大事なお知らせ'))
+  * (('del:Groonga族の概要'))
+  * (('del:Groonga族の最新情報'))
+  * ((*周辺ツール紹介*))
+
+= grndump
+
+= grntest
+
+= groonga-query-log-analyze
+
+= まとめ（1）
+
+  * 先頭大文字でGroonga！
+  * Groonga
+    * mruby組み込み開始
+    * sub_filter()関数追加
+    * マルチカラムインデックスでもインデックス単位での重み付けをサポート
+    * Fedora入り！
+
+= まとめ（2）
+
+  * Mroonga
+    * MariaDBバンドル作業再開
+    * Windows対応
+    * COLLATIONサポート
+    * 詳細は斯波さんのセッションで！
+
+= まとめ（3）
+
+  * Rroonga
+    * 引き続きGroongaの最新機能をフルサポート！
+  * Droonga
+    * 詳しくは森さんのセッションで！
+  * grnxx
+    * 詳しくは矢田さんのセッションで！
+
+= まとめ（4）
+
+  * 便利ツール
+    * grndump: ダンプはこれで！
+    * grntest: テストはこれで！
+    * groonga-query-log-analyze: スロークエリーはこれで発見！
+    * groonga-query-log-extract:
+
+= 感謝：開発
+
+  * コントリビューター: X人
+
+今後もよろしく！
+
+= 感謝：イベント
+
+DeNAさんありがとう！
