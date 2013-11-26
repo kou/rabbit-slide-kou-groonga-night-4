@@ -112,10 +112,10 @@ Droonga
 
 = Groongaとは（1）
 
-(('tag:margin-bottom * 3'))全文検索機能付きデータベース
+(('tag:center'))(('tag:margin-bottom * 3'))全文検索機能付きデータベース
 
   * カラム指向のデータストア
-  * 高速な全文検索機能
+    * 高速な集計処理
   * 即時更新
     * 新鮮な情報をすぐに検索可能に
 
@@ -125,7 +125,9 @@ Droonga
   # src = images/groonga-database.svg
   # relative_width = 90
 
-= 多様なインターフェイス
+= Groongaとは（2）
+
+(('tag:center'))(('tag:margin-bottom * 3'))組み合わせやすい検索モジュール
 
   * 全文検索エンジン((*ライブラリ*))
     * 他のシステムと連携しやすい
@@ -133,19 +135,10 @@ Droonga
   * 全文検索サーバー
     * HTTP・GQTP
 
-= 特長
-
-  * 即時更新
-    * 新鮮な情報をすぐに検索可能に
-    * (('del:明朝まで検索できません'))
-  * 高速な集計処理
-    * ドリルダウン(('note:（ファセット）'))
-  * 多様なインターフェイス
-
-= インターフェイス
+= 多様なインターフェイス
 
   # image
-  # src = images/groonga-.svg
+  # src = images/groonga-interface.svg
   # relative_width = 90
 
 = Groonga族の最新情報
