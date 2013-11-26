@@ -10,12 +10,12 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="257.22675"
-   height="336.03329"
+   width="496.30243"
+   height="156.95294"
    id="svg7310"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="新規ドキュメント 23">
+   sodipodi:docname="logos.svg">
   <defs
      id="defs7312">
     <linearGradient
@@ -97,9 +97,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="191.24285"
-     inkscape:cy="178.51241"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="300.96925"
+     inkscape:cy="78.155654"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -109,8 +109,8 @@
      fit-margin-bottom="10"
      inkscape:window-width="1171"
      inkscape:window-height="457"
-     inkscape:window-x="2346"
-     inkscape:window-y="195"
+     inkscape:window-x="2397"
+     inkscape:window-y="202"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata7315">
@@ -120,7 +120,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -128,9 +128,9 @@
      inkscape:label="レイヤー 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-267.23171,-422.89727)">
+     transform="translate(-38.25757,-517.8511)">
     <g
-       transform="translate(50.130806,109.23408)"
+       transform="translate(-186.36672,204.18842)"
        id="layer1-7"
        inkscape:label="レイヤー 1">
       <g
@@ -164,7 +164,7 @@
       </g>
     </g>
     <g
-       transform="translate(-247.01205,116.48866)"
+       transform="translate(-236.91052,127.04556)"
        id="layer1-8"
        inkscape:label="レイヤー 1">
       <g
@@ -197,7 +197,7 @@
       </g>
     </g>
     <g
-       transform="translate(-135.58348,166.60038)"
+       transform="translate(-372.081,166.60038)"
        id="layer1-2"
        inkscape:label="レイヤー 1">
       <g
@@ -231,7 +231,7 @@
     </g>
     <g
        id="droonga"
-       transform="translate(281.36009,680.46456)">
+       transform="translate(291.46162,596.0671)">
       <linearGradient
          y2="36.467999"
          x2="122.8701"
