@@ -30,6 +30,19 @@ CC BY-SA 3.0
 
   * Groongaプロジェクト
 
+==== Groonga関連プロジェクトの画像を使った画像
+
+images/以下にある以下のファイル。
+
+  * logos.svg
+
+CC BY-SA 3.0
+
+原著作者名は以下の通りです。
+
+  * Groongaプロジェクト
+  * 須藤功平（またはKouhei Sutou）
+
 === その他
 
 上述以外のファイルです。
