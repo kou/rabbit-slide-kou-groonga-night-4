@@ -35,6 +35,7 @@ CC BY-SA 3.0
 images/以下にある以下のファイル。
 
   * logos.svg
+  * groonga-family.svg
 
 CC BY-SA 3.0
 
