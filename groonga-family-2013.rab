@@ -20,7 +20,27 @@
   * Groonga族の最新情報
   * 周辺ツール紹介
 
-= 大事なお知らせ
+= 大事なお知らせ1
+
+Groonga 3.1.0\n
+リリース！
+
+= 大事なお知らせ2
+
+Mroonga 3.10\n
+リリース！
+
+= 大事なお知らせ3
+
+Rroonga 3.1.0\n
+リリース！
+
+= 大事なお知らせ4
+
+Droonga 0.7.0\n
+リリース！
+
+= 大事なお知らせ5
 
 先頭大文字！
 
@@ -30,15 +50,17 @@ Groonga
 
 = 他のGroonga族も
 
-Groonga\n
 Mroonga\n
 Rroonga\n
+Droonga
 
 = ロゴ
 
-そのまま
+(('tag:center'))(('tag:x-large'))そのまま
 
-TODO: ロゴを入れる
+  # image
+  # src = images/logos.svg
+  # relative_width = 100
 
 = 理由
 
@@ -61,7 +83,9 @@ TODO: ロゴを入れる
 
 = Groonga族
 
-TODO: 図を入れる
+  # image
+  # src = images/groonga-family.svg
+  # relative_width = 90
 
 = Groonga族の最新情報
 
