@@ -13,6 +13,11 @@
 : theme
    groonga
 
+= この時間の目的
+
+今日の勉強会の\n
+道しるべを示す
+
 = 内容
 
   * 大事なお知らせ
@@ -20,27 +25,27 @@
   * Groonga族の最新情報
   * 周辺ツール紹介
 
-= 大事なお知らせ1
+= 大事なお知らせ（1）
 
 Groonga 3.1.0\n
 リリース！
 
-= 大事なお知らせ2
+= 大事なお知らせ（2）
 
 Mroonga 3.10\n
 リリース！
 
-= 大事なお知らせ3
+= 大事なお知らせ（3）
 
 Rroonga 3.1.0\n
 リリース！
 
-= 大事なお知らせ4
+= 大事なお知らせ（4）
 
 Droonga 0.7.0\n
 リリース！
 
-= 大事なお知らせ5
+= 大事なお知らせ（5）
 
 先頭大文字！
 
@@ -68,11 +73,23 @@ Droonga
 
 = 世界
 
-森: This is groonga!
+森: This is ((*g*))roonga!
 
 外: Wow! It's Groonga!
 
 森: お、おう… It's ((*G*))roonga!
+
+= 教訓
+
+英語圏では\n
+大文字始まりが\n
+なじむ
+
+= お願い
+
+みなさんも\n
+これからは\n
+((*先頭大文字*))で！
 
 = Groonga族の概要
 
@@ -85,6 +102,50 @@ Droonga
 
   # image
   # src = images/groonga-family.svg
+  # relative_width = 90
+
+= Groonga
+
+  # image
+  # src = images/groonga.svg
+  # relative_width = 90
+
+= Groongaとは（1）
+
+(('tag:margin-bottom * 3'))全文検索機能付きデータベース
+
+  * カラム指向のデータストア
+  * 高速な全文検索機能
+  * 即時更新
+    * 新鮮な情報をすぐに検索可能に
+
+= データベース
+
+  # image
+  # src = images/groonga-database.svg
+  # relative_width = 90
+
+= 多様なインターフェイス
+
+  * 全文検索エンジン((*ライブラリ*))
+    * 他のシステムと連携しやすい
+    * Ruby・MySQL
+  * 全文検索サーバー
+    * HTTP・GQTP
+
+= 特長
+
+  * 即時更新
+    * 新鮮な情報をすぐに検索可能に
+    * (('del:明朝まで検索できません'))
+  * 高速な集計処理
+    * ドリルダウン(('note:（ファセット）'))
+  * 多様なインターフェイス
+
+= インターフェイス
+
+  # image
+  # src = images/groonga-.svg
   # relative_width = 90
 
 = Groonga族の最新情報
