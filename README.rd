@@ -1,7 +1,7 @@
 = Groonga族2013
 
-Groonga、Mroonga、Rroonga、Droongaなど、Groonga関連プロジェクトの最新情
-報を紹介します。
+Groonga、Mroonga、Rroonga、Droongaなど、Groonga関連プロジェクトの概要と
+最新情報を紹介します。
 
 == ライセンス
 
@@ -11,6 +11,9 @@ Groonga、Mroonga、Rroonga、Droongaなど、Groonga関連プロジェクトの
 
 images/以下にある以下のファイル。
 
+  * droonga-icon.svg
+  * droonga-icon-full-size.svg
+  * droonga-logo.svg
   * groonga-icon.svg
   * groonga-icon-full-size.svg
   * groonga-logo.svg
@@ -34,8 +37,14 @@ CC BY-SA 3.0
 
 images/以下にある以下のファイル。
 
-  * logos.svg
+  * grnxx.svg
+  * groonga-and-grnxx-difference.svg
+  * groonga-database.svg
   * groonga-family.svg
+  * groonga-library.svg
+  * groonga-server.svg
+  * groonga.svg
+  * logos.svg
 
 CC BY-SA 3.0
 
