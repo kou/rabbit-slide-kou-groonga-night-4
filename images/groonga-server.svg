@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="groonga-database.svg">
+   sodipodi:docname="groonga-server.svg">
   <defs
      id="defs4">
     <marker
@@ -694,30 +694,6 @@
          style="stop-color:#740000"
          offset="1" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#SVGID_4_"
-       id="linearGradient6498"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(279.85374,93.654148)"
-       x1="223.6167"
-       y1="340.418"
-       x2="223.6167"
-       y2="403.2283" />
-    <marker
-       inkscape:stockid="Arrow1SendAPI"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="Arrow1SendAPI-8"
-       style="overflow:visible">
-      <path
-         inkscape:connector-curvature="0"
-         id="path6062-6"
-         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
-         style="fill:#a40000;fill-rule:evenodd;stroke:#a40000;stroke-width:1pt;marker-start:none"
-         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
-    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -726,16 +702,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.95404415"
-     inkscape:cx="324.77289"
-     inkscape:cy="242.71105"
+     inkscape:zoom="0.6746111"
+     inkscape:cx="446.57978"
+     inkscape:cy="281.31064"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1364"
      inkscape:window-height="708"
-     inkscape:window-x="1988"
-     inkscape:window-y="254"
+     inkscape:window-x="1948"
+     inkscape:window-y="173"
      inkscape:window-maximized="0"
      showguides="true"
      inkscape:guide-bbox="true" />
@@ -777,79 +753,124 @@
          id="tspan3771"
          x="-1033.2632"
          y="78.910072">libgroonga</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0071bc;fill-opacity:1;stroke:none;font-family:Sans"
+       x="50.054646"
+       y="836.60706"
+       id="text4476"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4478"
+         x="50.054646"
+         y="836.60706">gqtp</tspan></text>
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#0071bc;stroke-width:2.31505251000000012;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter5250)"
-       id="rect3773"
-       width="192.47444"
-       height="49.684937"
-       x="105.85844"
-       y="980.26648" />
+       style="fill:#ffffff;fill-opacity:1;stroke:#0071bc;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter5180)"
+       id="rect3797"
+       width="576.2478"
+       height="48.517639"
+       x="105.70129"
+       y="878.80841" />
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="123.00951"
-       y="1019.6006"
-       id="text3775"
+       x="269.29883"
+       y="917.9881"
+       id="text3818"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan3777"
-         x="123.00951"
-         y="1019.6006">キー管理</tspan></text>
+         id="tspan3820"
+         x="269.29883"
+         y="917.9881">クエリー言語</tspan></text>
     <rect
-       y="980.26648"
-       x="298.85843"
-       height="49.684937"
-       width="197.66258"
-       id="rect3779"
-       style="fill:#ffffff;fill-opacity:1;stroke:#0071bc;stroke-width:2.31505251000000012;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter5236)" />
-    <text
-       sodipodi:linespacing="125%"
-       id="text3781"
-       y="1019.3662"
-       x="318.78293"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       xml:space="preserve"><tspan
-         y="1019.3662"
-         x="318.78293"
-         id="tspan3783"
-         sodipodi:role="line">転置索引</tspan></text>
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#0071bc;stroke-width:2.31879711000000022;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter5222)"
-       id="rect3785"
-       width="274.258"
-       height="49.681152"
-       x="497.86029"
-       y="980.26831" />
+       y="758.83252"
+       x="105.70123"
+       height="119"
+       width="248.13103"
+       id="rect3822"
+       style="fill:#ffffff;fill-opacity:1;stroke:#0071bc;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3171)" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="517.05249"
-       y="1020.1084"
-       id="text3787"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="226.21686"
+       y="802.98584"
+       id="text3824"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan3789"
-         x="517.05249"
-         y="1020.1084">データストア</tspan></text>
-    <rect
-       y="929.83545"
-       x="105.70362"
-       height="49.854614"
-       width="666.09338"
-       id="rect3791"
-       style="fill:#ffffff;fill-opacity:1;stroke:#0071bc;stroke-width:2.00560594000000014;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter5194)"
-       ry="0" />
+         id="tspan3826"
+         x="226.21686"
+         y="802.98584">groonga</tspan><tspan
+         sodipodi:role="line"
+         x="226.21686"
+         y="857.60992"
+         id="tspan3828">コマンド</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:'M+ 1p';-inkscape-font-specification:'M+ 1p Medium'"
-       x="441.84299"
-       y="970.39093"
-       id="text3793"
+       style="font-size:30px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Sans"
+       x="49.820271"
+       y="628.84967"
+       id="text4554"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan3795"
-         x="441.84299"
-         y="970.39093">データベース機能</tspan></text>
+         id="tspan4556"
+         x="49.820271"
+         y="628.84967">HTTP</tspan></text>
+    <g
+       id="g5112"
+       transform="translate(-295.25211,595.35534)"
+       style="filter:url(#filter3185)">
+      <rect
+         y="8.3621826"
+         x="401"
+         height="49.646481"
+         width="664.19153"
+         id="rect4480"
+         style="fill:#ffffff;fill-opacity:1;stroke:#2e3436;stroke-width:2.09331679;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         ry="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4482"
+         y="48.811401"
+         x="651.13281"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="48.811401"
+           x="651.13281"
+           id="tspan4484"
+           sodipodi:role="line">ユーザー</tspan></text>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path3229"
+       d="m 283.41926,749.93491 0,-85"
+       style="fill:none;stroke:#0071bc;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Sendgqtp)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3231"
+       d="m 301.41926,664.93491 0,82"
+       style="fill:none;stroke:#0071bc;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Sendgqtp)" />
+    <path
+       style="fill:none;stroke:#4e9a06;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1SendHTTP)"
+       d="m 167.41926,749.93491 0,-85"
+       id="path3235"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#4e9a06;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1SendHTTP)"
+       d="m 185.41926,664.93491 0,82"
+       id="path3237"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#4e9a06;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1SendHTTP);fill-opacity:1"
+       d="m 17.027588,642.84125 61.282634,0"
+       id="path6050"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#0071bc;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Sendgqtp)"
+       d="m 17.027588,852.84125 61.282634,0"
+       id="path6078"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
     <g
        transform="matrix(0.23021966,0,0,0.23021966,-54.152056,857.41727)"
        id="layer1-9"
@@ -861,77 +882,66 @@
          style="fill:url(#linearGradient2994)" />
     </g>
     <text
-       sodipodi:linespacing="125%"
-       id="text3298"
-       y="738.81097"
-       x="628.34424"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:'M+ 1p';-inkscape-font-specification:'M+ 1p Medium'"
-       xml:space="preserve"><tspan
-         y="738.81097"
-         x="628.34424"
-         id="tspan3300"
-         sodipodi:role="line">カラム指向</tspan><tspan
-         y="788.81097"
-         x="628.34424"
-         sodipodi:role="line"
-         id="tspan3313">集計処理が得意</tspan><tspan
-         y="838.81097"
-         x="628.34424"
-         sodipodi:role="line"
-         id="tspan3348">例：ドリルダウン</tspan></text>
-    <path
-       style="fill:none;stroke:#a40000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1SendAPI)"
-       d="m 675.47975,858.14794 0,108.20422"
-       id="path3213"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       sodipodi:nodetypes="cc"
-       inkscape:connector-curvature="0"
-       id="path3342"
-       d="m 122.36222,869.67782 171.8998,114.49322"
-       style="fill:none;stroke:#a40000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1SendAPI)" />
-    <text
-       sodipodi:linespacing="125%"
-       id="text3352"
-       y="852.52197"
-       x="123.07257"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:'M+ 1p';-inkscape-font-specification:'M+ 1p Medium'"
-       xml:space="preserve"><tspan
-         y="852.52197"
-         x="123.07257"
-         sodipodi:role="line"
-         id="tspan3360">即時更新</tspan><tspan
-         y="902.52197"
-         x="123.07257"
-         sodipodi:role="line"
-         id="tspan3393" /></text>
-    <text
-       xml:space="preserve"
-       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       x="69.179192"
-       y="70.08094"
-       id="text3430"
-       sodipodi:linespacing="125%"
-       transform="translate(0,592.36218)"><tspan
-         sodipodi:role="line"
-         id="tspan3432" /></text>
-    <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:'M+ 1p';-inkscape-font-specification:'M+ 1p Medium'"
-       x="383.01862"
-       y="672.23682"
+       x="680.81134"
+       y="694.55658"
        id="text3434"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="383.01862"
-         y="672.23682"
-         id="tspan3442">テーブル・カラムの管理</tspan></text>
+         x="680.81134"
+         y="694.55658"
+         id="tspan3442">サーバー</tspan><tspan
+         sodipodi:role="line"
+         x="680.81134"
+         y="744.55658"
+         id="tspan3341">として使用</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3171)"
+       id="rect4350"
+       width="326.74374"
+       height="119"
+       x="355.70123"
+       y="758.83252" />
     <path
-       sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
-       id="path3446"
-       d="m 379.89594,694.63349 0,219.31019"
-       style="fill:none;stroke:#a40000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1SendAPI)" />
+       id="path4352"
+       d="m 511.41926,749.93491 0,-85"
+       style="fill:none;stroke:#4e9a06;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1SendHTTP)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4354"
+       d="m 529.41926,664.93491 0,82"
+       style="fill:none;stroke:#4e9a06;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1SendHTTP)" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5166"
+       y="802.88953"
+       x="516.72937"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#009900;stroke-opacity:1;font-family:'M+ 1p';-inkscape-font-specification:'M+ 1p Heavy'"
+       xml:space="preserve"><tspan
+         id="tspan5170"
+         y="802.88953"
+         x="516.72937"
+         sodipodi:role="line"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#009900;fill-opacity:1;stroke:#009900;stroke-opacity:1;font-family:'M+ 1p';-inkscape-font-specification:'M+ 1p Heavy'">NGINX</tspan></text>
+    <rect
+       y="819.62634"
+       x="355.70123"
+       height="58.206177"
+       width="326.74374"
+       id="rect5174"
+       style="fill:#ffffff;fill-opacity:1;stroke:#0071bc;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3171)" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="372.10016"
+       y="860.54718"
+       id="text5176"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5178"
+         x="372.10016"
+         y="860.54718">nginxモジュール</tspan></text>
   </g>
 </svg>
