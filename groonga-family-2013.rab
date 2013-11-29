@@ -19,6 +19,13 @@
 道しるべを示す\n
 (('note:（詳細には立ち入らない）'))
 
+= リーダブルコードの解説者
+
+  # image
+  # src = images/readable-code.jpeg
+  # relative_height = 95
+  # reflect_ratio = 0.1
+
 = 内容
 
   * 大事なお知らせ
@@ -28,22 +35,22 @@
 
 = 大事なお知らせ（1）
 
-Groonga 3.1.0\n
+(('tag:groonga:G'))roonga 3.1.0\n
 リリース！
 
 = 大事なお知らせ（2）
 
-Mroonga 3.10\n
+(('tag:mroonga:M'))roonga 3.10\n
 リリース！
 
 = 大事なお知らせ（3）
 
-Rroonga 3.1.0\n
+(('tag:rroonga:R'))roonga 3.1.0\n
 リリース！
 
 = 大事なお知らせ（4）
 
-Droonga 0.7.0\n
+(('tag:droonga:D'))roonga 0.7.0\n
 リリース！
 
 = 大事なお知らせ（5）
@@ -52,13 +59,13 @@ Droonga 0.7.0\n
 
 = 先頭大文字
 
-Groonga
+(('tag:groonga:G'))roonga
 
 = 他のGroonga族も
 
-Mroonga\n
-Rroonga\n
-Droonga
+(('tag:mroonga:M'))roonga\n
+(('tag:rroonga:R'))roonga\n
+(('tag:droonga:D'))roonga
 
 = ロゴ
 
@@ -180,10 +187,24 @@ Droonga
   # src = images/groonga.svg
   # relative_width = 90
 
+= Grnxxの互換性
+
+  * 全文検索ライブラリー
+    * 互換性低い\n
+      (('note:シングルスレッド・シングルプロセスで使うなら互換'))
+  * 全文検索サーバー
+    * 互換
+
 = GroongaとGrnxxの違い
 
   # image
   # src = images/groonga-and-grnxx-difference.svg
+  # relative_width = 90
+
+= Groonga族（比較用）
+
+  # image
+  # src = images/groonga-family.svg
   # relative_width = 90
 
 = Grnxxの詳細

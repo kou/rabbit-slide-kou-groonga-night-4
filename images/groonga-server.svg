@@ -694,6 +694,40 @@
          style="stop-color:#740000"
          offset="1" />
     </linearGradient>
+    <filter
+       id="filter3171-2"
+       inkscape:label="Drop shadow"
+       width="1.5"
+       height="1.5"
+       x="-0.25"
+       y="-0.25"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur3173-5"
+         in="SourceAlpha"
+         stdDeviation="2"
+         result="blur" />
+      <feColorMatrix
+         id="feColorMatrix3175-7"
+         result="bluralpha"
+         type="matrix"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.5 0 " />
+      <feOffset
+         id="feOffset3177-8"
+         in="bluralpha"
+         dx="4"
+         dy="4"
+         result="offsetBlur" />
+      <feMerge
+         id="feMerge3179-4">
+        <feMergeNode
+           id="feMergeNode3181-2"
+           in="offsetBlur" />
+        <feMergeNode
+           id="feMergeNode3183-9"
+           in="SourceGraphic" />
+      </feMerge>
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -703,8 +737,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.6746111"
-     inkscape:cx="876.66063"
-     inkscape:cy="109.70526"
+     inkscape:cx="540.07166"
+     inkscape:cy="205.37819"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -943,5 +977,12 @@
          id="tspan5178"
          x="372.10016"
          y="860.54718">nginxモジュール</tspan></text>
+    <rect
+       style="fill:none;stroke:#a40000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3171-2)"
+       id="rect5151"
+       width="425.93396"
+       height="31.898905"
+       x="133.11972"
+       y="691.5448" />
   </g>
 </svg>
