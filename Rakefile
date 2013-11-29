@@ -7,7 +7,7 @@ Rabbit::Task::Slide.new do |task|
   spec = task.spec
   task.spec.files += Dir.glob("images/**/*.*")
   # task.spec.files -= Dir.glob("private/**/*.*")
-  task.spec.add_runtime_dependency("rabbit-theme-groonga")
+  task.spec.add_runtime_dependency("rabbit-theme-groonga", ">= 1.0.1")
 end
 
 desc "Tag #{spec.version}"
